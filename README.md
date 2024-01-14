@@ -16,6 +16,7 @@ Python, Selenium Library e PyCharm
 5.  Utilize o comando " robot  PastaOndeOArquivoEstáLocalizado\inputvalidations.robot
 
 ---NOTAS---
+
 é necessário ter o "chromeDriver" instalado e ter as dependencias do robotframework.
 chromedriver deve estar na sua pasta de scripts do pythons e essa pasta deve estar na sua seção de "Variáveis de ambiente" do windows. (veja abaixo como colocar o diretório nas variáveis de ambiente).
 Para instalar as dependencias do robot framework utilize os seguintes comandos no cmd:
