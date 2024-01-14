@@ -26,11 +26,11 @@ Create an account
 
     click link  link:Create an Account
     sleep   5
-    input text  xpath:/html/body/div[2]/main/div[3]/div/form/fieldset[1]/div[1]/div/input   Conta15
+    input text  xpath:/html/body/div[2]/main/div[3]/div/form/fieldset[1]/div[1]/div/input   Katrina 
     sleep   3
-    input text  xpath:/html/body/div[2]/main/div[3]/div/form/fieldset[1]/div[2]/div/input   Robinson
+    input text  xpath:/html/body/div[2]/main/div[3]/div/form/fieldset[1]/div[2]/div/input   Jensen
     sleep   3
-    input text  xpath:/html/body/div[2]/main/div[3]/div/form/fieldset[2]/div[1]/div/input   alberto.conta15@example.com
+    input text  xpath:/html/body/div[2]/main/div[3]/div/form/fieldset[2]/div[1]/div/input   katrina.jensen@example.com
     sleep   3
     input text  xpath:/html/body/div[2]/main/div[3]/div/form/fieldset[2]/div[2]/div/input   StrongPassword0
     sleep   3
