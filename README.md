@@ -50,3 +50,9 @@ Durante a produção desse código para o desafio coodesh o principail problema 
 -Dificuldades-
 
 Os sites de ajuda como stackoverflow, robotframework.org e etc ajudam bastante com dúvidas que surgem durante a produção, porem a unica situação que me segurou e me atrasou o termino do codigo foi o radio button no final do checkout na parte de shipping methods, no começo senti que meu código estava instável pois qualquer modificação em qualquer lugar do site fazia com que a variavel do botão mudasse e isso complicava o código, mas depois de algumas modificações de tempo o código ficou muito mais instável.
+
+
+---Conclusão---
+
+Levando em conta que eu ainda sou "junior" considero que eu fiz um bom trabalho com esse projeto, seguindo essa linha ainda tenho muito o que aprender e espero aprender bastante na empresa.
+Quero agradeçer a coodesh pela oportunidade e espero que trabalhemos juntos num futuro proximo!
