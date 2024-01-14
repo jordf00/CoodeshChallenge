@@ -119,13 +119,13 @@ Cart
     sleep   8
     select radio button     ko_unique_1      flatrate_flatrate
     sleep   3
-    input text  xpath:/html/body/div[2]/main/div[2]/div/div[3]/div[4]/ol/li[1]/div[2]/form/div/fieldset/div/div[1]/div/input    Random Street
+    input text  xpath:/html/body/div[2]/main/div[2]/div/div[3]/div[4]/ol/li[1]/div[2]/form/div/fieldset/div/div[1]/div/input     Walnut Hill Ln
     sleep   2
     input text  xpath:/html/body/div[2]/main/div[2]/div/div[3]/div[4]/ol/li[1]/div[2]/form/div/div[4]/div/input     random City
     sleep   2
     input text  xpath:/html/body/div[2]/main/div[2]/div/div[3]/div[4]/ol/li[1]/div[2]/form/div/div[7]/div/input     123456-123456
     sleep   2
-    input text  xpath:/html/body/div[2]/main/div[2]/div/div[3]/div[4]/ol/li[1]/div[2]/form/div/div[9]/div/input     11 999999999
+    input text  xpath:/html/body/div[2]/main/div[2]/div/div[3]/div[4]/ol/li[1]/div[2]/form/div/div[9]/div/input     257 708-9064
     sleep   2
     select from list by label   country_id      Brazil
     sleep   5
