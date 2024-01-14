@@ -35,3 +35,18 @@ Para colocar o diretorio nas variáveis de ambiente siga os passos:
 4. Na aba "avançado" clique em "Variáveis de ambiente".
 5. Na parte "Variáveis de ambiente" procure por "path" clique e depois clique em editar.
 6. Clique em "novo" e cole o diretório do seu "cromedriver".
+
+
+--- Documentação---
+
+-Motivo da escolha-
+
+O meu motivo principal foi a praticidade e a quantidade de informações existentes na internet sobre robot framework e Python. 
+
+-Processo de produção-
+
+Durante a produção desse código para o desafio coodesh o principail problema que eu enfrentei foi a minha própria inesperiência ja que tenho pouco tempo utilizando robot framework. As principais ajudas que eu peguei foram a documentação no site "robotframework.org" , stackoverflow e videos no youtube. 
+
+-Dificuldades-
+
+Os sites de ajuda como stackoverflow, robotframework.org e etc ajudam bastante com dúvidas que surgem durante a produção, porem a unica situação que me segurou e me atrasou o termino do codigo foi o radio button no final do checkout na parte de shipping methods, no começo senti que meu código estava instável pois qualquer modificação em qualquer lugar do site fazia com que a variavel do botão mudasse e isso complicava o código, mas depois de algumas modificações de tempo o código ficou muito mais instável.
