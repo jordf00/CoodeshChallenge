@@ -1,9 +1,9 @@
 # CoodeshChallenge
 
-Challenge for coodesh
+Challenge by coodesh
 Código de automação de testes feito usando RobotFramework, Python, Selenium Library e PyCharm.
 
-Tecnologias Utilizadas
+---Tecnologias Utilizadas---
 
 Python, Selenium Library e PyCharm
 
