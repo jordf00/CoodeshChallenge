@@ -39,7 +39,7 @@ Para colocar o diretorio nas variáveis de ambiente siga os passos:
 
 --- Documentação---
 
--Motivo da escolha-
+-Motivo da escolha - Python e robot Framework-
 
 O meu motivo principal foi a praticidade e a quantidade de informações existentes na internet sobre robot framework e Python. 
 
