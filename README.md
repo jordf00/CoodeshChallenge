@@ -55,4 +55,4 @@ Os sites de ajuda como stackoverflow, robotframework.org e etc ajudam bastante c
 ---Conclusão---
 
 Levando em conta que eu ainda sou "junior" considero que eu fiz um bom trabalho com esse projeto, seguindo essa linha ainda tenho muito o que aprender e espero aprender bastante na empresa.
-Quero agradeçer a coodesh pela oportunidade e espero que trabalhemos juntos num futuro proximo!
+Quero agradeçer a coodesh pela oportunidade e espero que trabalhemos juntos em um futuro proximo!
