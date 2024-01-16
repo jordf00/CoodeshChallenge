@@ -1,5 +1,7 @@
 # CoodeshChallenge
 
+---Português---
+
 Challenge by coodesh
 Código de automação de testes feito usando RobotFramework, Python, Selenium Library e PyCharm.
 
@@ -56,3 +58,55 @@ Os sites de ajuda como stackoverflow, robotframework.org e etc ajudam bastante c
 
 Levando em conta que eu ainda sou "junior" considero que eu fiz um bom trabalho com esse projeto, seguindo essa linha ainda tenho muito o que aprender e espero aprender bastante na empresa.
 Quero agradeçer a coodesh pela oportunidade e espero que trabalhemos juntos em um futuro proximo!
+
+---English---
+
+Challenge by Coodesh Test automation code made using RobotFramework, Python, Selenium Library, and PyCharm.
+
+---Technologies Used---
+
+Python, Selenium Library and PyCharm
+
+---HOW TO INSTALL---
+
+Download the "inputvalidations.robot" file
+Put it in your "robotframework" folder. EX: "C:\Users<User>\PycharmProjects\RobotFramework\RobotFramework"
+Open PyCharm and open the file.
+Inside PyCharm open the terminal.
+Use the command " robot FolderWhereTheFileIsLocated\inputvalidations.robot
+
+---Notes---
+It is necessary to have "chromeDriver" installed and have the robotframework dependencies. chromedriver should be in your Python scripts folder and this folder should be in your Windows "Environment Variables" section. (see below how to put the directory in the environment variables). To install robot framework dependencies, use the following commands in cmd:
+
+pip install selenium
+pip install robotframework
+pip install robotframework-seleniumlibrary
+
+---Environment variables---
+
+To put the directory in the environment variables, follow these steps:
+
+Copy the location where "chromedriver" is located (recommended to leave it with the Python scripts) EX: C:\Users<User>\AppData\Local\Programs\Python\Python312\Scripts .
+Right-click on "This Computer" and click properties.
+Open "advanced system settings".
+In the "advanced" tab, click on "Environment variables".
+In the "Environment Variables" part, look for "path", click, and then click edit.
+Click "new" and paste your "chromedriver" directory.
+
+--- Documentation---
+
+-Reason for choosing - Python and Robot Framework-
+
+My main reason was the practicality and amount of information on the internet about robot framework and Python.
+
+-Production process-
+
+During the production of this code for the Coodesh challenge, the main problem I faced was my inexperience since I had little time to use the robot framework. The main help I got was the documentation on the website "robotframework.org", StackOverflow, and videos on YouTube.
+
+-Difficulties-
+
+Help sites like StackOverflow, robotframework.org, etc. help a lot with questions that arise during production, however the only situation that held me back and delayed me from finishing the code was the radio button at the end of the checkout in the shipping methods part, At first I felt that my code was unstable because any modification anywhere on the site caused the button variable to change and this complicated the code, but after some time modifications, the code became much more unstable.
+
+---Conclusion---
+
+Taking into account that I'm still a "junior" I consider that I did a good job with this project, following this line I still have a lot to learn and I hope to learn a lot in the company. I want to thank Coodesh for the opportunity and I hope we work together shortly!
